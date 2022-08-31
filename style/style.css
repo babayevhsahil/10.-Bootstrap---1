@@ -1,0 +1,107 @@
+a{
+  margin-left: 10px;
+}
+*{
+  padding: 0;
+  margin: 0;
+
+}
+#first{
+  background-color: #212529;
+  padding: 3rem 15rem;
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.all{
+  display: flex;
+  align-items: center;
+}
+.box{
+  width: 48%;
+  
+}
+img{
+  width: 100%;
+}
+.box h1{
+  color: #fff;
+  font-size: 48px;
+  width: 79%;
+  margin-bottom: 10px;
+}
+.box p{
+    color: #ffffff80;
+    font-size: 20px;
+    width: 78%;
+    margin-bottom: 10px;
+}
+#Second{
+  background-color: #fff;
+  padding: 3rem 15rem;
+  display: flex;
+  justify-content: space-between;
+}
+.all1{
+  padding: 1;
+  display: flex;
+  align-items: center;
+}
+.box1{
+  width: 48%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.boxes{
+  width: 50%;
+ padding: 10px;
+}
+.boxes i{
+  background-color: #247CFD;
+  padding: 10px;
+  border-radius: 5px;
+  color: #fff;
+}
+.box1 h1{
+  width: 78%;
+}
+#third{
+  padding: 3rem 10rem;
+  background-color: #F8F9FA;
+ 
+
+}
+.text{
+  align-items: center;
+  text-align: center;
+}
+.text h1{
+  margin-left: 24rem;
+  font-size: 24px;
+  width:43%;
+  margin-bottom: 20px;
+}
+.text p span{
+  color: red;
+}
+.text p{
+  font-size: 20px;
+}
+.text i{
+  margin-right: 15px;
+}
+#fourth{
+  padding: 3rem 15rem;
+  background-color: #fff;
+  text-align: center;
+}
+.top p{
+    margin-bottom: 50px;
+    width: auto;
+}
+#fotter{
+    padding: 3rem 15rem;
+}
+#End a {
+  text-decoration: none;
+}
